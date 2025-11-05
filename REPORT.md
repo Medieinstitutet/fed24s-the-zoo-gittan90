@@ -71,7 +71,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: IG**
-📌 **Motivering:** Tekniskt fel vid analys. Kontrollera manuellt.
+📌 **Motivering:** Kraven för betyget G är inte fullständigt uppfyllda, speciellt saknas hantering av trasiga bilder och implementation av beskrivna routing-koncept.
 
 💡 **Förbättringsförslag:**  
-AI-analys misslyckades. Vänligen kontrollera koden manuellt.
+Lägg till hantering av trasiga bilder, implementera child-routes och layouts i routern, och säkerställ att djurens matningslogik fungerar korrekt med angivna villkor.
