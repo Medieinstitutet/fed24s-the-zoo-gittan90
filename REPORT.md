@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: IG**
-📌 **Motivering:** Kraven för betyget G är inte fullständigt uppfyllda, speciellt saknas hantering av trasiga bilder och implementation av beskrivna routing-koncept.
+## 🏆 **Betyg: VG**
+📌 **Motivering:** Projektet uppfyller kraven för betyget VG genom att implementera router, hantera djurdata och bilder, och använda avancerade tekniker som kontext och reducers, tillsammans med subtila UI-förbättringar.
 
 💡 **Förbättringsförslag:**  
-Lägg till hantering av trasiga bilder, implementera child-routes och layouts i routern, och säkerställ att djurens matningslogik fungerar korrekt med angivna villkor.
+Förbättra användningen av React Context API och optimera reducer-logik för bättre skalbarhet samt se över prestandaoptimeringar.
