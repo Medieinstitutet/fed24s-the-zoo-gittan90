@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Projektet uppfyller kraven för betyget VG genom att implementera router, hantera djurdata och bilder, och använda avancerade tekniker som kontext och reducers, tillsammans med subtila UI-förbättringar.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Projektet uppfyller alla G-krav på en general nivå. Flera av VG-kraven saknar dock tydliga implementeringar, speciellt kontext, reducer och mer avancerade animeringar.
 
 💡 **Förbättringsförslag:**  
-Förbättra användningen av React Context API och optimera reducer-logik för bättre skalbarhet samt se över prestandaoptimeringar.
+Implementera Context API för att hantera global state och använd reducer funktioner för djurdata. Tillämpa mer avancerade och subtila animeringar för en bättre användarupplevelse.
