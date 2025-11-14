@@ -69,7 +69,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla krav för betyg G. Koden är välstrukturerad och funktionaliteten är implementerad enligt uppgiftens krav. Studenten har använt en router för att hantera olika sidor, implementerat en översiktssida och en detaljsida för djuren, samt hanterat trasiga bildlänkar korrekt. Styling är genomförd med en teknik utöver ren CSS. För att nå VG behöver studenten implementera context API och reducers för state management, samt lägga till subtila animeringar.
+📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyget G. Studenten har implementerat en router för att hantera olika sidor i applikationen och har använt en annan teknik än ren CSS för styling. Funktionaliteten för att visa och mata djur är korrekt implementerad, inklusive hantering av trasiga bildlänkar. Dock saknas flera av de mer avancerade kraven för VG, såsom användning av context API och reducers.
 
 💡 **Förbättringsförslag:**  
-För att nå VG bör studenten implementera context API för komponentkommunikation, använda reducers för state management, och lägga till subtila animeringar. Dessutom kan koden dra nytta av att förbättra DRY-principen och säkerställa att alla komponenter är välkommenterade. Exempel på DRY-förbättringar kan inkludera att abstrahera gemensam logik för hantering av djurens matningsstatus till hjälpfunktioner. Ökad kommentering kan fokusera på mer komplex logik för att underlätta förståelse och framtida underhåll.
+För att nå betyget VG behöver studenten implementera datahämtning via tjänster eller en custom hook, använda context för komponentkommunikation, och hantera djurstatus med reducers istället för state. Dessutom bör subtila animeringar införas vid interaktioner och sidladdningar för att förbättra användarupplevelsen. Kodkvaliteten kan förbättras genom att minska upprepningar och säkerställa att all kod är välkommenterad för bättre läsbarhet.
