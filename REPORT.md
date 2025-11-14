@@ -1,7 +1,6 @@
 # 📌 Rättningsrapport – fed24s-the-zoo-gittan90
 
 ## 🎯 Uppgiftens Krav:
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xBUCHFwF)
 # The Zoo
 
 I denna inlämningsuppgift kommer ni att bygga ett zoo. Zoo:t har ett antal djur som kommer behöva matas. 
@@ -66,12 +65,11 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 
 Ha roligt, skratta och lär er massor!
 
-
 ## 🔍 ESLint-varningar:
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla G-krav på en general nivå. Flera av VG-kraven saknar dock tydliga implementeringar, speciellt kontext, reducer och mer avancerade animeringar.
+📌 **Motivering:** Koden uppfyller alla grundläggande krav för betyg G. Projektet använder en router för att navigera mellan sidor, hanterar trasiga bildlänkar korrekt och använder en annan teknik än ren CSS för styling. Dock saknas vissa avancerade funktioner och tekniker som krävs för betyg VG, såsom användning av context API och reducers.
 
 💡 **Förbättringsförslag:**  
-Implementera Context API för att hantera global state och använd reducer funktioner för djurdata. Tillämpa mer avancerade och subtila animeringar för en bättre användarupplevelse.
+För att uppnå betyget VG bör studenten implementera datahämtning med hjälp av tjänster eller en custom hook, använda context istället för props för komponentkommunikation, och använda reducers för djurhantering. Dessutom bör subtila animeringar vid knappklick och sidladdningar läggas till. Kodens struktur kan förbättras genom att bättre dela upp komponenter och moduler för ökad läsbarhet och underhållbarhet.
